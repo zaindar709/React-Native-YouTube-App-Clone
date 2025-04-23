@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012947154876",
+    "project_id": "you-tube-player-4609b",
+    "storage_bucket": "you-tube-player-4609b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012947154876:android:a0ff52aca11ddc93671db9",
+        "android_client_info": {
+          "package_name": "com.testtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012947154876-bnh8usa65aq1eunqksetn2cekfcqv23g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldTqZIIbur6z3gI6tc4lFW4Q0ZQf3fTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012947154876-bnh8usa65aq1eunqksetn2cekfcqv23g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
